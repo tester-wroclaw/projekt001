@@ -1,4 +1,4 @@
 #! /usr/bin/python
-print "ala ma kota i psa"
+print "la ma kota i psa"
 print "11111111111111111"
 print 123
