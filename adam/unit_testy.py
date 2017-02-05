@@ -4,6 +4,7 @@ import wroc
 
 class testdd(unittest.TestCase):
     
+<<<<<<< HEAD
     def testf1_1(self):
         w=wroc.f1(0)
         self.assertEqual(w,0)
@@ -21,6 +22,9 @@ class testdd(unittest.TestCase):
         self.assertEqual(w,5)
         
     def testf1_5(self):
+=======
+
+>>>>>>> branch 'master' of https://github.com/tester-wroclaw/projekt001.git
         w=wroc.f1(2,3)
         self.assertEqual(w,7)
         
